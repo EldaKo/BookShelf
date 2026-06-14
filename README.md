@@ -2,13 +2,6 @@
 
 독서 기록을 관리하는 iOS 앱입니다.
 
-## 개발 환경
-
-- Xcode 15
-- Swift / SwiftUI
-- iOS 14.0+
-- CoreData
-
 ## 주요 기능
 
 - 책 추가 / 삭제
@@ -27,6 +20,12 @@ BookShelf/
     ├── BookListView.swift
     ├── AddBookView.swift
     └── StatView.swift
+```
+
+## 시연영상
+
+https://youtu.be/P4Ruyh-W3qo
+
 ```
 
 1. 프로젝트 클론
