@@ -9,19 +9,6 @@
 - 상태별 필터링
 - 완독률 통계
 
-## 프로젝트 구조
-
-```
-BookShelf/
-├── ViewModels/
-│   └── BookViewModel.swift
-└── Views/
-    ├── ContentView.swift
-    ├── BookListView.swift
-    ├── AddBookView.swift
-    └── StatView.swift
-```
-
 ## 시연영상
 
 https://youtu.be/P4Ruyh-W3qo
