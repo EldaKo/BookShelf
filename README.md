@@ -26,8 +26,3 @@ BookShelf/
 
 https://youtu.be/P4Ruyh-W3qo
 
-```
-
-1. 프로젝트 클론
-2. `BookShelf.xcodeproj` 실행
-3. 시뮬레이터 선택 후 `⌘R`
